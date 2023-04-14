@@ -13,7 +13,7 @@ export const Dashboard = () => {
                                 &nbsp; 31
                             </h2>
                             <h5>Total Products</h5>
-                            <Link>
+                            <Link to='/about'>
                                 <h6 className="text-dark">
                                     View All <i className="bi bi-arrow-right"></i>
                                 </h6>
@@ -36,8 +36,7 @@ export const Dashboard = () => {
                                 &nbsp; 8
                             </h2>
                             <h5>Total Users</h5>
-                            <a></a>
-                            <Link>
+                            <Link to='/about'>
                                 <h6 className="text-dark">
                                     View All <i className="bi bi-arrow-right"></i>
                                 </h6>
@@ -51,7 +50,7 @@ export const Dashboard = () => {
                                 &nbsp; 37
                             </h2>
                             <h5>No. of Orders</h5>
-                            <Link>
+                            <Link to='/about'>
                                 <h6 className="text-white">
                                     View All <i className="bi bi-arrow-right"></i>
                                 </h6>

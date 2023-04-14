@@ -8,3 +8,18 @@ button.my-btnn {
 .my-navbar {
     background: rgb(17, 209, 100);
 }
+
+.my-input {
+    width: 14rem;
+    height: 2.5rem;
+    outline-style: none;
+}
+
+.my-badge {
+    height: 1.3rem;
+
+}
+
+.my-img {
+    height: 2.5rem;
+}
